@@ -27,7 +27,7 @@
 
 ## 📋 About
 
-A financial tracker app build with vanilla **JS**, HTML5 and CSS.
+A financial tracker app build with vanilla **JS**, **HTML5** and **CSS**.
 
 ---
 
